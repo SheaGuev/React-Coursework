@@ -1,0 +1,262 @@
+{
+    "properties": [
+        {
+            "id": "prop1",
+            "type": "House",
+            "purchaseType": "Sale",
+            "bedrooms": 3,
+            "price": 750000,
+            "tenure": "Freehold",
+            "description": "Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+            "location": "Petts Wood Road, Petts Wood, Orpington",
+            "postcode": "BR5 1LA",
+            "coordinates": {
+                "lat": 11.5074,
+                "lng": 0.1278
+            },
+            "picture": [
+                "images/prop2_3.jpg",
+                "images/prop2_2.jpg",
+                "images/prop1_2.jpg",
+                "images/prop2_1.jpg",
+                "images/prop2_4.jpg",
+                "images/prop1_3.jpg",
+                "images/prop1_1.jpg",
+                "images/prop1_4.jpg"
+
+            ],
+            "floorPlan": "images/floorplan.jpg",
+            "url": "properties/prop1.html",
+            "added": {
+                "month": "October",
+                "day": 12,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop2",
+            "type": "Flat",
+            "purchaseType": "Sale",
+            "bedrooms": 2,
+            "price": 399995,
+            "tenure": "Freehold",
+            "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+            "location": "Crofton Road Orpington,",
+            "postcode": "BR6 8HD",
+            "coordinates": {
+                "lat": 51.5074,
+                "lng": -0.1278
+            },
+            "picture": [
+                "images/prop2_2.jpg",
+                "images/prop1_2.jpg",
+                "images/prop2_1.jpg",
+                "images/prop2_4.jpg",
+                "images/prop1_3.jpg",
+                "images/prop1_1.jpg",
+                "images/prop1_4.jpg",
+                "images/prop2_3.jpg"
+            ],
+            "floorPlan": "images/floorplan.jpg",
+            "url": "properties/prop2.html",
+            "added": {
+                "month": "September",
+                "day": 14,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop3",
+            "type": "Flat",
+            "purchaseType": "Rent",
+            "bedrooms": 1,
+            "price": 1300,
+            "tenure": "Leasehold",
+            "description": "A cozy one-bedroom apartment in the heart of the city. This modern space features an open-plan kitchen and living area, a spacious bedroom, and a stylish bathroom. With close proximity to public transportation and shopping centers, this apartment is ideal for urban living.",
+            "location": "City Center, Anytown,",
+            "postcode": "NW1 2ES",
+            "coordinates": {
+                "lat": 31.5074,
+                "lng": 4.1278
+            },
+            "picture": [
+                "images/prop1_2.jpg",
+                "images/prop2_1.jpg",
+                "images/prop2_4.jpg",
+                "images/prop1_3.jpg",
+                "images/prop1_1.jpg",
+                "images/prop1_4.jpg",
+                "images/prop2_2.jpg",
+                "images/prop2_3.jpg"
+            ],
+            "floorPlan": "images/floorplan.jpg",
+            "url": "properties/prop3.html",
+            "added": {
+                "month": "November",
+                "day": 8,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop4",
+            "type": "House",
+            "purchaseType": "Sale",
+            "bedrooms": 4,
+            "price": 980000,
+            "tenure": "Freehold",
+            "description": "Spacious and elegant four-bedroom townhouse with a private garden. This property offers a luxurious living experience with high-end finishes, a gourmet kitchen, and multiple living spaces. Located in a prestigious neighborhood, close to schools and parks.",
+            "location": "Oak Street, Suburbia,",
+            "postcode": "NE2 1AB",
+            "coordinates": {
+                "lat": 51.5074,
+                "lng": 0.1278
+            },
+            "picture": [
+                "images/prop2_1.jpg",
+                "images/prop2_4.jpg",
+                "images/prop1_3.jpg",
+                "images/prop1_2.jpg",
+                "images/prop1_1.jpg",
+                "images/prop1_4.jpg",
+                "images/prop2_2.jpg",
+                "images/prop2_3.jpg"
+            ],
+            "floorPlan": "images/floorplan.jpg",
+            "url": "properties/prop4.html",
+            "added": {
+                "month": "December",
+                "day": 20,
+                "year": 2022
+            }
+        },
+        {
+            "id": "prop5",
+            "type": "Flat",
+            "purchaseType": "Rent",
+            "bedrooms": 2,
+            "price": 2000,
+            "tenure": "Freehold",
+            "description": "Charming two-bedroom Flat with a rustic appeal. The property features exposed beams, a cozy fireplace, and a picturesque garden. Located in a tranquil village setting, perfect for those seeking a peaceful retreat.",
+            "location": "Meadow Lane, Countryside,",
+            "postcode": "NE1 2AB",
+            "coordinates": {
+                "lat": -51.5074,
+                "lng": 0.1278
+            },
+            "picture": [
+                "images/prop2_4.jpg",
+                "images/prop1_3.jpg",
+                "images/prop1_2.jpg",
+                "images/prop1_1.jpg",
+                "images/prop1_4.jpg",
+                "images/prop2_1.jpg",
+                "images/prop2_2.jpg",
+                "images/prop2_3.jpg"
+            ],
+            "floorPlan": "images/floorplan.jpg",
+            "url": "properties/prop5.html",
+            "added": {
+                "month": "January",
+                "day": 5,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop6",
+            "type": "Flat",
+            "purchaseType": "Rent",
+            "bedrooms": 3,
+            "price": 1200,
+            "tenure": "Leasehold",
+            "description": "Luxurious three-bedroom penthouse flat with breathtaking city views. This modern residence features floor-to-ceiling windows, high-end appliances, and a spacious terrace. Ideal for those who appreciate sophisticated urban living.",
+            "location": "Skyline Avenue, Metropolis",
+            "postcode": "NE3 1AB",
+            "coordinates": {
+                "lat": 11.5074,
+                "lng": -33.1278
+            },
+            "picture": [
+                "images/prop1_3.jpg",
+                "images/prop1_2.jpg",
+                "images/prop1_1.jpg",
+                "images/prop1_4.jpg",
+                "images/prop2_1.jpg",
+                "images/prop2_2.jpg",
+                "images/prop2_3.jpg",
+                "images/prop2_4.jpg"
+            ],
+            "floorPlan": "images/floorplan.jpg",
+            "url": "properties/prop6.html",
+            "added": {
+                "month": "March",
+                "day": 10,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop7",
+            "type": "House",
+            "purchaseType": "Sale",
+            "bedrooms": 4,
+            "price": 850000,
+            "tenure": "Freehold",
+            "description": "Modern and spacious four-bedroom duplex with a contemporary design. This property offers versatile living spaces, a stylish kitchen, and private outdoor areas. Located in a vibrant neighborhood with easy access to amenities and entertainment.",
+            "location": "Main Street, Urban Hub",
+            "postcode": "NE4 1AB",
+            "coordinates": {
+                "lat": -69.5074,
+                "lng": 0.1278
+            },
+            "picture": [
+                "images/prop1_1.jpg",
+                "images/prop1_2.jpg",
+                "images/prop1_3.jpg",
+                "images/prop1_4.jpg",
+                "images/prop2_1.jpg",
+                "images/prop2_2.jpg",
+                "images/prop2_3.jpg",
+                "images/prop2_4.jpg"
+            ],
+            "floorPlan": "images/floorplan.jpg",
+            "url": "properties/prop7.html",
+            "added": {
+                "month": "April",
+                "day": 18,
+                "year": 2023
+            }
+        },
+        {
+            "id": "prop8",
+            "type": "House",
+            "purchaseType": "Rent",
+            "bedrooms": 3,
+            "price": 2500,
+            "tenure": "Freehold",
+            "description": "Classic three-bedroom bungalow with a charming character. The property features a spacious living room, a well-appointed kitchen, and a beautiful garden. Situated in a quiet residential area, perfect for those seeking tranquility.",
+            "location": "Sunset Lane, Suburbia",
+            "postcode": "NE5 1AB",
+            "coordinates": {
+                "lat": -51.5074,
+                "lng": -0.1278
+            },
+            
+            "picture": [
+                "images/prop1_2.jpg",
+                "images/prop1_1.jpg",
+                "images/prop1_3.jpg",
+                "images/prop1_4.jpg",
+                "images/prop2_1.jpg",
+                "images/prop2_2.jpg",
+                "images/prop2_3.jpg",
+                "images/prop2_4.jpg"
+            ],
+            "floorPlan": "images/floorplan.jpg",
+            "url": "properties/prop8.html",
+            "added": {
+                "month": "May",
+                "day": 25,
+                "year": 2023
+            }
+        }
+    ]
+}
